@@ -1,4 +1,5 @@
-##Upvote 
+Upvote
+
 Simple voting application **(named UpVote!)** that takes inspiration from popular social feed websites like Reddit and Hacker News.
 
 **UpVote!** focuses on displaying a list of submissions that users can vote on. Each submission will
